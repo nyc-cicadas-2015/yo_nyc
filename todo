@@ -1,0 +1,6 @@
+1. download pictures, use filename in csv
+2. find a way to prevent pictures from repeating (put used pictures in array)
+3. maybe add an exit keyword that will break from the program *
+4. counter for wrong answers, and break if more than 3 wrong answers
+5. accept multiple answers as correct *
+
